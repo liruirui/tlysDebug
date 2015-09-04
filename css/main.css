@@ -79,6 +79,11 @@
     padding: 0;
     text-align: center;
 }
+.text-center{
+    font-weight: 600 !important;
+    padding:1em 0 !important;
+    text-align: center !important;
+}
 .bgcolor{
     background:rgba(0,0,0,0)!important;
     border:0!important;
@@ -365,6 +370,24 @@ a{
 .black-color{
     color:#333 !important;
 }
+.white-color{
+    background-color:#fff !important;
+}
 .reset-margin{
     margin:0 !important;
 }
+#ntc-block{
+    position:relative;
+}
+#price-ntc{
+    color: #f00 !important;
+    position:absolute;
+    top:-18px;
+    right:68px;
+}
+#price-ntc-pic{
+    position: absolute;
+    top:-18px;
+    right:0;
+}
+
