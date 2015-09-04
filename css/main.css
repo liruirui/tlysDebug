@@ -365,3 +365,6 @@ a{
 .black-color{
     color:#333 !important;
 }
+.reset-margin{
+    margin:0 !important;
+}
